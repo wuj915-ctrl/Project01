@@ -1,0 +1,38 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Locations of interest",
+      "vec": [
+        {
+          "value": "Littleton, Colorado"
+        },
+        {
+          "value": "Brentwood, New York"
+        },
+        {
+          "value": "Knoxville, Tennessee"
+        },
+        {
+          "value": "New York, New York"
+        },
+        {
+          "value": "New York"
+        },
+        {
+          "value": "New Jersey"
+        },
+        {
+          "value": "Tennessee"
+        }
+      ]
+    },
+    {
+      "label": "Usage explanation",
+      "value": "Locations of interest are used to personalize your experience on Instagram and show you more relevant ads. Learn more about how Instagram uses location in Privacy Center."
+    }
+  ],
+  "fbid": "17841402133503003"
+}

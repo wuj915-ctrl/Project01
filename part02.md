@@ -1,0 +1,5 @@
+I browsed through a few of the data files from the main folder that contains my instagram information, and initially picked personal Info to parse through. However, upon minimal cleaning up, I realized that there wasn't too much contained in there that I didn't know, so I pivoted to data about my ad consumption.
+
+More than anything, I think it's interesting to see the "profile" built on me. The brands that I was targeted with is conventionally "feminine". I was also interested in the frequency of these brands appearing. Ironically, the one that appeared the most "birdy grey" was the one least memorable to me.
+
+I was also surprised at how small the data is. I rarely use instagram because it feels like every time I'm on there, I'm bombarded with ads and for every post from acquaintances and friends that I want to see, I'll have to scroll through three ads. From the size of the data, I'm curious as to what metrics they use to measure data. I think that it gives some insight as to data manipulation occuring via collection as well.

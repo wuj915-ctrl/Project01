@@ -1,0 +1,54 @@
+[
+  {
+    "timestamp": 1773851031,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Action",
+        "value": "Click"
+      },
+      {
+        "label": "Title",
+        "value": "instagram.com"
+      },
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DU-eIBuDMAS/",
+        "href": "https://www.instagram.com/p/DU-eIBuDMAS/"
+      }
+    ],
+    "fbid": "17841402133503003:1773851031270767:120241024692960149:3:AdsHistoryData"
+  },
+  {
+    "timestamp": 1773939340,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Action",
+        "value": "Click"
+      },
+      {
+        "label": "Title",
+        "value": "instagram.com"
+      },
+      {
+        "label": "Ad library public URL",
+        "value": "https://www.facebook.com/ads/library/?id=904447019253015",
+        "href": "https://www.facebook.com/ads/library/?id=904447019253015"
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DO_IjtUjNc4/",
+        "href": "https://www.instagram.com/p/DO_IjtUjNc4/"
+      }
+    ],
+    "fbid": "17841402133503003:1773939340013202:120243468638450170:3:AdsHistoryData"
+  }
+]
